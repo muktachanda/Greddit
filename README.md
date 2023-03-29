@@ -1,7 +1,6 @@
-# Greddiit App
-### Mukta Chanda
-### Assignment 1
-### 2021101071
+# Greddit App
+
+### Created as part of DASS (Design and Analysis of Software Systems) course as an assignment.
 
 ### *Run on Ubuntu 22.04.1 LTS*  
 
